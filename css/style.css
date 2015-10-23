@@ -1,0 +1,20 @@
+/*Default Media Queries These Should be changed to fit whatever is going on*/
+/* anything greater than 1200px */
+@media(min-width: 1200px){
+}
+
+/* anything below 991px */
+@media(max-width: 991px){
+}
+
+/* when screen width is between 768 and 990px */
+@media(min-width: 768px) and (max-width: 990px){
+}
+
+/* when screen width is below 768 */
+@media(max-width: 768px){
+}
+
+/* when screen width is below 500 */
+@media(max-width: 500px){
+}
