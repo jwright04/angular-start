@@ -1,7 +1,8 @@
 {
-  "name": "James-Wright<jcwright04@gmail.com>",
+  "name": "angular-starter",
   "version": "1.0.0",
   "description": "",
+  "author" : "James Wright <jcwright04@gmail.com>"
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
